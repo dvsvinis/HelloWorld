@@ -4,5 +4,6 @@ public class Main {
 
         System.out.println("Hello World!");
         System.out.println("Practice uploading this to GITHUB");
+        System.out.println("New change");
     }
 }
